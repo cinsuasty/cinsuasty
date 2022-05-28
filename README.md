@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cesar Isnuasty</h1>
+<h1 align="center">Hi 👋, I'm Cesar Insuasty</h1>
 <h3 align="center">Backend developer, lover of technology and self-taught learning.</h3>
 
 - 🔭 Webchat with Socket.io [socket-chat](https://github.com/cinsuasty/socket-chat)
